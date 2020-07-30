@@ -1,0 +1,22 @@
+{
+  "name": "music-on-reverse",
+  "version": "1.0.0",
+  "description": "Search and rewind a Youtube song video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbdinamite/music-on-reverse.git"
+  },
+  "author": "Roberto Abreu Bento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbdinamite/music-on-reverse/issues"
+  },
+  "homepage": "https://github.com/rbdinamite/music-on-reverse#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
