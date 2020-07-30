@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rbdinamite/music-on-reverse/issues"
   },
-  "homepage": "https://github.com/rbdinamite/music-on-reverse#readme"
+  "homepage": "https://github.com/rbdinamite/music-on-reverse#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
